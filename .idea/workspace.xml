@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a33e305-7e11-4740-8d1b-2748db72ef8f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day_3__Intro_to_Conditional_Statements.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/30-days-of-Ruby.iml" afterPath="$PROJECT_DIR$/.idea/30-days-of-Ruby.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day_2_Operators.rb" afterPath="$PROJECT_DIR$/Day_2_Operators.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="30-days-of-Ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,9 +19,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/30-days-of-Ruby@Day_3__Intro_to_Conditional_Statements.coverage" NAME="Day_3__Intro_to_Conditional_Statements Coverage Results" MODIFIED="1469954464019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="30-days-of-Ruby" />
     <SUITE FILE_PATH="coverage/30-days-of-Ruby@Day_1_Data_Types.coverage" NAME="Day_1_Data_Types Coverage Results" MODIFIED="1469872706971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="30-days-of-Ruby" />
     <SUITE FILE_PATH="coverage/30-days-of-Ruby@Day_1_Hello_World.coverage" NAME="Day_1_Hello_World Coverage Results" MODIFIED="1469872075466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="30-days-of-Ruby" />
-    <SUITE FILE_PATH="coverage/30-days-of-Ruby@Day_2_Operators.coverage" NAME="Day_2_Operators Coverage Results" MODIFIED="1469874717259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="30-days-of-Ruby" />
+    <SUITE FILE_PATH="coverage/30-days-of-Ruby@Day_2_Operators.coverage" NAME="Day_2_Operators Coverage Results" MODIFIED="1469954431840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="30-days-of-Ruby" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -49,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day_2_Operators.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day_2_Operators.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day_2_Operators.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08585858">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day_3__Intro_to_Conditional_Statements.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day_3__Intro_to_Conditional_Statements.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25757575">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -70,6 +84,7 @@
         <option value="$PROJECT_DIR$/Day_1_Hello_World.rb" />
         <option value="$PROJECT_DIR$/Day_1_Data_Types.rb" />
         <option value="$PROJECT_DIR$/Day_2_Operators.rb" />
+        <option value="$PROJECT_DIR$/Day_3__Intro_to_Conditional_Statements.rb" />
       </list>
     </option>
   </component>
@@ -140,7 +155,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Ruby.Day_2_Operators">
+  <component name="RunManager" selected="Ruby.Day_3__Intro_to_Conditional_Statements">
     <configuration default="false" name="Day_1_Hello_World" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="30-days-of-Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -186,6 +201,22 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Day_2_Operators.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day_3__Intro_to_Conditional_Statements" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="30-days-of-Ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Day_3__Intro_to_Conditional_Statements.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -294,20 +325,25 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Ruby.Day_1_Hello_World" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.Day_1_Data_Types" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.Day_2_Operators" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.Day_3__Intro_to_Conditional_Statements" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.Day_2_Operators" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.Day_1_Data_Types" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.Day_1_Hello_World" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.Day_3__Intro_to_Conditional_Statements" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.Day_2_Operators" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.Day_1_Data_Types" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.Day_1_Hello_World" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1a33e305-7e11-4740-8d1b-2748db72ef8f" name="Default" comment="" />
@@ -318,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -341,6 +377,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -357,6 +401,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day_2_Operators.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day_0_Hello_World.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -365,10 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day_2_Operators.rb">
+    <entry file="file://$PROJECT_DIR$/Day_3__Intro_to_Conditional_Statements.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08585858">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.25757575">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
